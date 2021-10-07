@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Aplikasi Istana Kue</string>
+    <string name="ucapan_selamat_datang">Di Aplikasi Istana Kue</string>
+    <string-array name="major">
+        <item>Kue Tar</item>
+        <item>Kue Nampan</item>
+        <item>Kue Kering</item>
+        <item>Kue Basah</item>
+        <item>Kue Kotakan</item>
+    </string-array>
+</resources>
